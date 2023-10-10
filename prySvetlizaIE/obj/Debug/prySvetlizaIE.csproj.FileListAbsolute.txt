@@ -1,0 +1,14 @@
+C:\Users\delfina\Desktop\prySvetlizaIE\bin\Debug\prySvetlizaIE.exe.config
+C:\Users\delfina\Desktop\prySvetlizaIE\bin\Debug\prySvetlizaIE.exe
+C:\Users\delfina\Desktop\prySvetlizaIE\bin\Debug\prySvetlizaIE.pdb
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.csproj.AssemblyReference.cache
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.csproj.SuggestedBindingRedirects.cache
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.frmInicio.resources
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.Properties.Resources.resources
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.csproj.GenerateResource.cache
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.csproj.CoreCompileInputs.cache
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.exe
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.pdb
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.fmrPrincipal.resources
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.frmMostrar.resources
+C:\Users\delfina\Desktop\prySvetlizaIE\obj\Debug\prySvetlizaIE.frmProveedores.resources
